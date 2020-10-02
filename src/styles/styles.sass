@@ -1,0 +1,39 @@
+*
+  box-sizing: border-box
+
+#container
+  display: flex
+  justify-content: space-around
+  background-image: url('../assets/background.jpg')
+  background-size: cover
+  position: relative
+
+  &::after
+    content: ''
+    background-color: #383838
+    position: absolute
+    height: 100vh
+    width: 100vw
+    opacity: 50%
+
+  .slide-container
+    width: 25vw
+    height: 100vh
+    position: relative
+    overflow: hidden
+    display: flex
+    justify-content: center
+    align-items: center
+    z-index: 500
+
+    .game-mode-container
+      position: relative
+
+      h1
+        margin: 0
+        color: #49748f
+        font-size: 1.5rem
+
+    video
+      position: absolute
+      height: 100vh
