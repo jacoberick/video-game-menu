@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0a0667d.chunk.css",
-    "main.js": "/static/js/main.b979fa97.chunk.js",
-    "main.js.map": "/static/js/main.b979fa97.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1d676a9d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1d676a9d.js.map",
-    "static/js/2.75af5f42.chunk.js": "/static/js/2.75af5f42.chunk.js",
-    "static/js/2.75af5f42.chunk.js.map": "/static/js/2.75af5f42.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8b5ebc27266a77487b82ff5e87cb03d8.js": "/precache-manifest.8b5ebc27266a77487b82ff5e87cb03d8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b0a0667d.chunk.css.map": "/static/css/main.b0a0667d.chunk.css.map",
-    "static/js/2.75af5f42.chunk.js.LICENSE.txt": "/static/js/2.75af5f42.chunk.js.LICENSE.txt",
-    "static/media/styles.sass": "/static/media/background.0e9e4c88.jpg",
-    "static/media/campaign.mp4": "/static/media/campaign.bc31dc9a.mp4",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/multiplayer.mp4": "/static/media/multiplayer.43924d9f.mp4",
-    "static/media/specops.mp4": "/static/media/specops.f46e9841.mp4"
+    "main.css": "/video-game-menu/static/css/main.bf05736a.chunk.css",
+    "main.js": "/video-game-menu/static/js/main.9398060e.chunk.js",
+    "main.js.map": "/video-game-menu/static/js/main.9398060e.chunk.js.map",
+    "runtime-main.js": "/video-game-menu/static/js/runtime-main.0d25940b.js",
+    "runtime-main.js.map": "/video-game-menu/static/js/runtime-main.0d25940b.js.map",
+    "static/js/2.75af5f42.chunk.js": "/video-game-menu/static/js/2.75af5f42.chunk.js",
+    "static/js/2.75af5f42.chunk.js.map": "/video-game-menu/static/js/2.75af5f42.chunk.js.map",
+    "index.html": "/video-game-menu/index.html",
+    "precache-manifest.2e986d6a556a5e57fb85d9dfb91722ed.js": "/video-game-menu/precache-manifest.2e986d6a556a5e57fb85d9dfb91722ed.js",
+    "service-worker.js": "/video-game-menu/service-worker.js",
+    "static/css/main.bf05736a.chunk.css.map": "/video-game-menu/static/css/main.bf05736a.chunk.css.map",
+    "static/js/2.75af5f42.chunk.js.LICENSE.txt": "/video-game-menu/static/js/2.75af5f42.chunk.js.LICENSE.txt",
+    "static/media/styles.sass": "/video-game-menu/static/media/background.0e9e4c88.jpg",
+    "static/media/campaign.mp4": "/video-game-menu/static/media/campaign.bc31dc9a.mp4",
+    "static/media/logo.svg": "/video-game-menu/static/media/logo.5d5d9eef.svg",
+    "static/media/multiplayer.mp4": "/video-game-menu/static/media/multiplayer.43924d9f.mp4",
+    "static/media/specops.mp4": "/video-game-menu/static/media/specops.f46e9841.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d676a9d.js",
+    "static/js/runtime-main.0d25940b.js",
     "static/js/2.75af5f42.chunk.js",
-    "static/css/main.b0a0667d.chunk.css",
-    "static/js/main.b979fa97.chunk.js"
+    "static/css/main.bf05736a.chunk.css",
+    "static/js/main.9398060e.chunk.js"
   ]
 }
