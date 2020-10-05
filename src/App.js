@@ -4,7 +4,6 @@ import "./App.css";
 import CampaignVideo from "./assets/campaign.mp4";
 import MultiplayerVideo from "./assets/multiplayer.mp4";
 import SpecOpsVideo from "./assets/specops.mp4";
-import $ from "jquery";
 
 //page imports
 import Slide from "./components/slide.js";
